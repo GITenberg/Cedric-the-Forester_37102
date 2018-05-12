@@ -1,0 +1,32 @@
+_repo: Cedric-the-Forester_37102
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 37102-rst/images/cover.jpg
+creator:
+  author:
+    agent_name: Marshall, Bernard Gay
+    birthdate: 1875
+    gutenberg_agent_id: '38649'
+    url: http://www.gutenberg.org/2009/agents/38649
+description: Narrated by Sir Dickon Mountjoy, a twelfth-century Norman nobleman, the
+  novel describes his lifelong friendship with Cedric of Pelham Wood, a Saxon yeoman.
+  Cedric the forester saves Sir Dickon's life and is made his squire. The two men
+  become friends and have many adventures. Cedric eventually becomes the best crossbowman
+  in England, and is knighted. Set in the time of King Richard the Lionhearted, Cedric
+  plays a pivotal role in the signing of the Magna Carta.
+gutenberg_issued: '2011-08-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37102'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Knights and knighthood -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Great Britain -- History -- 13th century -- Juvenile fiction'
+- !lcsh 'Adventure stories'
+title: Cedric, the Forester
+url: http://www.gutenberg.org/ebooks/37102
